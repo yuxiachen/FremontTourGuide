@@ -1,0 +1,195 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="attractions_tab">Attraction</string>
+    <string name="school_tab">School</string>
+    <string name="chinese_Rest_tab">Restaurant</string>
+    <string name="hotel_tab">Hotel</string>
+    //strings of attractionFragment.
+    <string name="attraction_name_1">Aqua Adventure Water Park</string>
+    <string name="attraction_name_2">Olive Hyde Art Gallery</string>
+    <string name="attraction_name_3">Museum of Local History</string>
+    <string name="attraction_name_4">Niles Film Museum</string>
+    <string name="attraction_name_5">Central Park</string>
+    <string name="attraction_name_6">Fremont Skate Park</string>
+    <string name="attraction_name_7">Star Struck Theatre</string>
+    <string name="attraction_name_8">Shinn Historic House</string>
+
+    <string name="attraction_location_1">40500 Paseo Padre Pkwy</string>
+    <string name="attraction_location_2">123 Washington Blvd</string>
+    <string name="attraction_location_3">190 Anza Street</string>
+    <string name="attraction_location_4">37417 Niles Blvd</string>
+    <string name="attraction_location_5">40000 Paseo Padre Pkwy</string>
+    <string name="attraction_location_6">40500 Paseo Padre Pkwy</string>
+    <string name="attraction_location_7">42307 Osgood Rd</string>
+    <string name="attraction_location_8">1241 Peralta Blvd</string>
+
+    <string name="attraction_phone_1">(510) 494-4426</string>
+    <string name="attraction_phone_2">(510) 791-4357</string>
+    <string name="attraction_phone_3">(510) 623-7907</string>
+    <string name="attraction_phone_4">(510) 494-1411</string>
+    <string name="attraction_phone_5">(510) 790-5541</string>
+    <string name="attraction_phone_6">(510) 790-5546</string>
+    <string name="attraction_phone_7">(510) 659-1319</string>
+    <string name="attraction_phone_8">(510) 795-0891</string>
+
+    //strings of schoolFragment.
+    <string name="school_name_1">Arnold Beauty College</string>
+    <string name="school_name_2">California School for the Blind</string>
+    <string name="school_name_3">California School for the Deaf</string>
+    <string name="school_name_4">DeVry University</string>
+    <string name="school_name_5">Fremont Adult School</string>
+    <string name="school_name_6">Fremont Unified School District</string>
+    <string name="school_name_7">Mission Valley Regional Occupation Program</string>
+    <string name="school_name_8">Northwestern Polytechnic University</string>
+    <string name="school_name_9">Ohlone College</string>
+    <string name="school_name_10">Unitek College</string>
+    <string name="school_name_11">Unitek Education</string>
+
+    <string name="school_location_1">4149 Peralta Blvd</string>
+    <string name="school_location_2">500 Walnut Ave</string>
+    <string name="school_location_3">39350 Gallaudet Dr</string>
+    <string name="school_location_4">6600 Dumbarton Cir</string>
+    <string name="school_location_5">4700 Calaveras Ave</string>
+    <string name="school_location_6">4210 Technology Dr</string>
+    <string name="school_location_7">5019 Stevenson Blvd</string>
+    <string name="school_location_8">47671 Westinghouse Dr</string>
+    <string name="school_location_9">43600 Mission Blvd</string>
+    <string name="school_location_10">4670 Auto Mall Pkwy</string>
+    <string name="school_location_11">4670 Auto Mall Pkwy</string>
+
+    <string name="school_phone_1">(510) 299-8959</string>
+    <string name="school_phone_2">(510) 794-3800</string>
+    <string name="school_phone_3">(510) 794-3666</string>
+    <string name="school_phone_4">(510) 574-1200</string>
+    <string name="school_phone_5">(510) 793-6465</string>
+    <string name="school_phone_6">(510) 657-2350</string>
+    <string name="school_phone_7">(510) 657-1865</string>
+    <string name="school_phone_8">(510) 592-9688</string>
+    <string name="school_phone_9">(510) 659-6000</string>
+    <string name="school_phone_10">(888) 735-4355</string>
+    <string name="school_phone_11">(888) 825-6273</string>
+
+    //strings of restFragment.
+    <string name="rest_name_1">37 Degree Dessert Cafe</string>
+    <string name="rest_name_2">Aberdeen Cafe</string>
+    <string name="rest_name_3">Asian Pearl</string>
+    <string name="rest_name_4">B &amp; T Dim Sum</string>
+    <string name="rest_name_5">B K’s Bistro</string>
+    <string name="rest_name_6">Banana Cafe</string>
+    <string name="rest_name_7">BBQ Factory</string>
+    <string name="rest_name_8">China Chili Restaurant</string>
+    <string name="rest_name_9">China Express</string>
+    <string name="rest_name_10">China Station Restaurant</string>
+    <string name="rest_name_11">Chinese Cuisine</string>
+    <string name="rest_name_12">Darda Fremont Restaurant</string>
+    <string name="rest_name_13">Dragon B B Q Express</string>
+    <string name="rest_name_14">Eastern Winds</string>
+    <string name="rest_name_15">Elite Restaurant</string>
+    <string name="rest_name_16">Family Cake</string>
+    <string name="rest_name_17">Food Talk Cafe</string>
+    <string name="rest_name_18">Fortune Cookies</string>
+    <string name="rest_name_19">Fu Lam Moon Seafood Restaurant</string>
+    <string name="rest_name_20">Fu’s Delight Restaurant</string>
+
+    <string name="rest_location_1">43743 Boscell Rd</string>
+    <string name="rest_location_2">46831 Warm Springs Blvd</string>
+    <string name="rest_location_3">43635 Boscell Rd</string>
+    <string name="rest_location_4">36659 Fremont Blvd</string>
+    <string name="rest_location_5">3113 Stevenson Blvd</string>
+    <string name="rest_location_6">46827 Warm Springs Blvd 101</string>
+    <string name="rest_location_7">46132 Warm Springs Blvd 141</string>
+    <string name="rest_location_8">39116 State St</string>
+    <string name="rest_location_9">39473 Fremont Blvd</string>
+    <string name="rest_location_10">3880 Lake Arrowhead Ave</string>
+    <string name="rest_location_11">39144 Paseo Padre Pkwy</string>
+    <string name="rest_location_12">34755 Ardenwood Blvd</string>
+    <string name="rest_location_13">39486 Fremont Blvd</string>
+    <string name="rest_location_14">41039 Fremont Blvd</string>
+    <string name="rest_location_15">4161 Cushing Pkwy</string>
+    <string name="rest_location_16">46875 Warm Springs Blvd</string>
+    <string name="rest_location_17">43755 Boscell Rd</string>
+    <string name="rest_location_18">38509 Fremont Blvd</string>
+    <string name="rest_location_19">40460 Albrae St</string>
+    <string name="rest_location_20">1616 Washington Blvd</string>
+
+    <string name="rest_phone_1">(510) 498-8239</string>
+    <string name="rest_phone_2">(510) 659-0888</string>
+    <string name="rest_phone_3">(510) 979-1368</string>
+    <string name="rest_phone_4">(510) 795-1018</string>
+    <string name="rest_phone_5">(510) 770-8818</string>
+    <string name="rest_phone_6">(510) 668-1598</string>
+    <string name="rest_phone_7">(510) 979-9197</string>
+    <string name="rest_phone_8">(510) 791-1688</string>
+    <string name="rest_phone_9">(510) 623-9393</string>
+    <string name="rest_phone_10">(510) 487-743</string>
+    <string name="rest_phone_11">(510) 505-9255</string>
+    <string name="rest_phone_12">(510) 797-6088</string>
+    <string name="rest_phone_13">(510) 739-1868</string>
+    <string name="rest_phone_14">(510) 651-6678</string>
+    <string name="rest_phone_15">(510) 651-6392</string>
+    <string name="rest_phone_16">(510) 651-9888</string>
+    <string name="rest_phone_17">(510) 668-0898</string>
+    <string name="rest_phone_18">(510) 818-9098</string>
+    <string name="rest_phone_19">(510) 668-1333</string>
+    <string name="rest_phone_20">(510) 498-8898</string>
+
+    //strings of hotelFragment.
+    <string name="hotel_name_1">Belvoir Springs Hotel</string>
+    <string name="hotel_name_2">Best Western Garden Plus Court Inn</string>
+    <string name="hotel_name_3">Comfort Inn</string>
+    <string name="hotel_name_4">Courtyard by Marriott</string>
+    <string name="hotel_name_5">Extended Stay America</string>
+    <string name="hotel_name_6">Fremont Days Inn</string>
+    <string name="hotel_name_7">Good Nite Inn</string>
+    <string name="hotel_name_8">Hampton Inn</string>
+    <string name="hotel_name_9">Holiday Inn Express &amp; Suites</string>
+    <string name="hotel_name_10">Holiday Inn Express</string>
+    <string name="hotel_name_11">Homestead Studio Suites</string>
+    <string name="hotel_name_12">Hyatt Place</string>
+    <string name="hotel_name_13">La Quinta Inns &amp; Suites</string>
+    <string name="hotel_name_14">Marriott Fremont Silicon Valley Hotel</string>
+    <string name="hotel_name_15">Mission Peak Lodge</string>
+    <string name="hotel_name_16">Motel 6</string>
+    <string name="hotel_name_17">Residence Inn</string>
+    <string name="hotel_name_18">Studio Plus</string>
+
+    <string name="hotel_location_1">36990 Mission Blvd</string>
+    <string name="hotel_location_2">5400 Mowry Ave</string>
+    <string name="hotel_location_3">47031 Kato Rd</string>
+    <string name="hotel_location_4">47000 Lakeview Blvd</string>
+    <string name="hotel_location_5">5355 Farwell Pl</string>
+    <string name="hotel_location_6">46101 Warm Springs Blvd</string>
+    <string name="hotel_location_7">4135 Cushing Pkwy</string>
+    <string name="hotel_location_8">46500 Landing Pkwy</string>
+    <string name="hotel_location_9">42220 Albrae St</string>
+    <string name="hotel_location_10">47031 Kato Rd</string>
+    <string name="hotel_location_11">46080 Fremont Blvd</string>
+    <string name="hotel_location_12">3101 W Warren Ave</string>
+    <string name="hotel_location_13">46200 Landing Pkwy</string>
+    <string name="hotel_location_14">46100 Landing Pkwy</string>
+    <string name="hotel_location_15">43643 Mission Blvd</string>
+    <string name="hotel_location_16">34047 Fremont Blvd</string>
+    <string name="hotel_location_17">5400 Farwell Pl</string>
+    <string name="hotel_location_18">5375 Farwell Dr</string>
+
+
+    <string name="hotel_phone_1">(510) 791-5711</string>
+    <string name="hotel_phone_2">(510) 792-4300</string>
+    <string name="hotel_phone_3">(510) 490-2900</string>
+    <string name="hotel_phone_4">(510) 656-1800</string>
+    <string name="hotel_phone_5">(510) 794-8040</string>
+    <string name="hotel_phone_6">(510) 656-2800</string>
+    <string name="hotel_phone_7">(510) 226-6483</string>
+    <string name="hotel_phone_8">(510) 426-7866</string>
+    <string name="hotel_phone_9">(510) 651-7373</string>
+    <string name="hotel_phone_10">(510) 490-2900</string>
+    <string name="hotel_phone_11">(510) 353-1664</string>
+    <string name="hotel_phone_12">(510) 623-6000</string>
+    <string name="hotel_phone_13">(510) 445-0808</string>
+    <string name="hotel_phone_14">(510) 413-3700</string>
+    <string name="hotel_phone_15">(510) 656-2366</string>
+    <string name="hotel_phone_16">(510) 793-4848</string>
+    <string name="hotel_phone_17">(510) 794-5900</string>
+    <string name="hotel_phone_18">(800) 398-7829</string>
+
+</resources>
